@@ -50,4 +50,6 @@ This repo is for:
 11. Hacking 1500 (`12_hacking-1500.md`)
 12. Augmentations & Daemon (`13_augmentations.md`)
 
+---
+
 *This is a living playbook. I’ll keep improving scripts, updating docs, and adding lessons learned as I progress through BitBurner.*
