@@ -36,4 +36,18 @@ This repo is for:
 
 ---
 
+## Guide Order
+1. Roadmap (`02_roadmap.md`)
+2. Hacknet Bootstrap (`03_hacknet.md`)
+3. Dark Web (First Purchases) (`04_darkweb.md`)
+4. Server Access & Backdoors (`05_server-access.md`)
+5. Hacking up to Level 200 (`06_hacking-200.md`)
+6. Dark Web Full Buildout (`07_darkweb-full.md`)
+7. Stock Market Automation (`08_stock-market.md`)
+8. Server Fleet Expansion (`09_server-fleet.md`)
+9. Hacking 600 (`10_hacking-600.md`)
+10. Hacking 1000 (`11_hacking-1000.md`)
+11. Hacking 1500 (`12_hacking-1500.md`)
+12. Augmentations & Daemon (`13_augmentations.md`)
+
 *This is a living playbook. I’ll keep improving scripts, updating docs, and adding lessons learned as I progress through BitBurner.*
