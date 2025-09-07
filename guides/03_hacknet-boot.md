@@ -6,7 +6,7 @@
 ---
 
 ## Notes
-- Provides baseline money generation.
+- Provides baseline money generation. In early game you may need to purchase one node manually if under 1k.
 - Essential first step before expanding servers or stock.
 - Going to free college at the same time generates levels needed for server access
 ---

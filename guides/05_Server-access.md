@@ -11,10 +11,10 @@ Used before manually connecting and backdooring servers.
    ```javascript
    run openSesame.js [target]
 
-Example: 
-
+## Example: 
+ ```javascript
 run openSesame.js n00dles
 
 After rooting, manually connect and backdoor:
-
+```javascript 
 connect [target] backdoor home
