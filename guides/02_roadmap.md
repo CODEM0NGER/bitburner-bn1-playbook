@@ -23,10 +23,13 @@ Each stage ties directly to the scripts and guides in this repo, showing what to
 ---
 
 ## 3. Server Access & Backdoors
-- **Script:** `openSesame.js`  
-- **Workflow:** Run the script to open ports, then manually `connect` + `backdoor`.  
+- **Scripts:** `tree.js`, `openSesame.js`  
+- **Workflow:**  
+  1. Run `tree.js` to scan the network and list servers you don’t yet have access to, including required ports and hacking levels.  
+  2. Use `openSesame.js` on eligible servers to open ports and nuke them.  
+  3. Manually `connect` + `backdoor` to gain faction access.  
 - **Key Targets:** `CSEC`, later `avmnite-02h`, `I.I.I.I`, `run4theh111z`, `w0r1d_d43m0n`.  
-- **Why:** Root and backdoors are required for faction access and storyline progress.  
+- **Why:** Scanning with `tree.js` helps plan purchases and targets, while rooting and backdoors are required for faction access and storyline progression.  
 
 ---
 
